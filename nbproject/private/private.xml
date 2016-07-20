@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/com/pru/controller/Login.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>81</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/PruCatering/PruCatering/src/java/com/pru/controller/AdminOrderProcessing.java</file>
+            <file>file:/C:/PruCatering/PruCatering/web/MenuItemList.jsp</file>
+            <file>file:/C:/PruCatering/PruCatering/src/java/com/pru/dal/CustomerDAO.java</file>
+            <file>file:/C:/PruCatering/PruCatering/src/java/com/pru/controller/Customer.java</file>
+            <file>file:/C:/PruCatering/PruCatering/src/java/com/pru/controller/CalendarData.java</file>
+            <file>file:/C:/PruCatering/PruCatering/src/java/com/pru/controller/Login.java</file>
+            <file>file:/C:/PruCatering/PruCatering/web/Login.jsp</file>
+            <file>file:/C:/PruCatering/PruCatering/web/CustomerRegistration.jsp</file>
+            <file>file:/C:/PruCatering/PruCatering/src/java/com/pru/dal/OrderAdminDAO.java</file>
+            <file>file:/C:/PruCatering/PruCatering/src/java/com/pru/controller/Home.java</file>
+            <file>file:/C:/PruCatering/PruCatering/web/CheckEmpAvail.jsp</file>
+        </group>
+    </open-files>
+</project-private>
